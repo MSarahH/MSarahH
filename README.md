@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MSarahH
-- 👀 I’m interested in art and songs
-- 😄 Pronouns: she/her
+- 🤍Me chamo Maria Sarah
+- 🤎Tenho 18 anos e sou aluna do Capacita Brasil
+- ✝️"Vinde a mim, todos vós que estais cansados e sobrecarregados, e eu vos aliviarei." - Mateus 11:28
 
 <!---
 MSarahH/MSarahH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
